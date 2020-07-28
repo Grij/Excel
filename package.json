@@ -1,5 +1,5 @@
 {
-  "name": "excel-course",
+  "name": "excel-by-gans",
   "version": "1.0.0",
   "description": "Pure JavaScript Excel Application",
   "main": "webpack.config.js",
@@ -17,19 +17,19 @@
     "javascript",
     "excel"
   ],
-  "author": "Vladilen Minin <vladilen.minin@gmail.com>",
+  "author": "Andy Gans <8704421@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vladilenm/excel-course/issues"
+    "url": "https://github.com/Grij/excel-project/issues"
   },
-  "homepage": "https://github.com/vladilenm/excel-course#readme",
+  "homepage": "https://github.com/Grij/excel-project/issues",
   "private": true,
   "browserslist": "> 0.25%, not dead",
   "devDependencies": {
-    "@babel/core": "^7.8.4",
-    "@babel/preset-env": "^7.8.4",
+    "@babel/core": "^7.10.5",
+    "@babel/preset-env": "^7.10.4",
     "babel-eslint": "^10.1.0",
-    "babel-loader": "^8.0.6",
+    "babel-loader": "^8.1.0",
     "clean-webpack-plugin": "^3.0.0",
     "copy-webpack-plugin": "^5.1.1",
     "cross-env": "^7.0.0",
